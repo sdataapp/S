@@ -458,7 +458,7 @@ class Ui_ProjectMaker(object):
         self.ProjectNameBox.setAutoFillBackground(False)
         self.ProjectNameBox.setClearButtonEnabled(False)
         self.ProjectNameBox.setObjectName("ProjectNameBox")
-        self.ProjectNameBox.setText('/Users/marcos/Desktop/New')
+        self.ProjectNameBox.setText('/Users/suser/Desktop/New')
         self.horizontalLayout.addWidget(self.ProjectNameBox)
         self.actionSave = QtWidgets.QAction(ProjectMaker)
         self.actionSave.setObjectName("actionSave")
